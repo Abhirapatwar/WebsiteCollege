@@ -1,0 +1,31 @@
+.box2{
+    /* border: 2px solid rgb(12, 71, 210); */
+    /* height: 100px; */
+    height: fit-content;
+    margin-top: 50px;
+}
+.box21{
+    margin:auto;
+    margin-top: 25px;
+    display: none;
+}
+.box22{
+    margin:auto;
+    margin-top: 25px;
+}
+.research a{
+    color: #b1040e;
+}
+
+
+
+
+
+/* --------------------------------------------------------------------------- */
+@media screen and (max-width:576px) {
+    .box21{
+        display: block;
+        margin:auto;
+        margin-top: 25px;
+    }
+}

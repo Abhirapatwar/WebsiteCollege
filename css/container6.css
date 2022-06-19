@@ -1,0 +1,164 @@
+.box6{
+    /* border: 2px solid rgb(83, 89, 96); */
+    height: fit-content;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    /* height: 250px; */
+}
+.box61{
+    /* border: 2px solid rgb(8, 91, 186); */
+    height: 500px;
+    /* height: fit-content; */
+    background-image: url("../img/testtube.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 800px;
+    
+}
+.box62{
+    /* border: 2px solid rgb(215, 230, 8); */
+    height: 500px;
+}
+.box611{
+    /* border: 2px solid rgb(99, 102, 62); */
+    height: 300px;
+    margin: auto;
+    margin-top: 300px;
+    background-color: white;
+    border-top: 2px solid #b1040e;
+    padding: 50px;
+}
+.some{
+    margin: auto;
+}
+.box621{
+    /* border: 2px solid rgb(0, 0, 0); */
+    height: 70px;
+    color: #b1040e;
+}
+.box622{
+    /* border: 2px solid rgb(238, 14, 14); */
+    height: 380px;
+    /* height: fit-content; */
+    margin-top:50px;
+}
+.box6221{
+    /* border: 2px solid rgb(14, 13, 13); */
+    height: 190px;
+    background-image: url("../img/dna.jfif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+.box6222{
+    /* border: 2px solid rgb(14, 13, 13); */
+    height: 190px;
+    background-image: url("../img/micro1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+.box6223{
+    /* border: 2px solid rgb(14, 13, 13); */
+    height: 190px;
+    background-image: url("../img/earth.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+
+  
+}
+.box6224{
+    /* border: 2px solid rgb(14, 13, 13); */
+    height: 190px;
+    background-image: url("../img/tunnel.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+.box611 h5{
+    color: #b1040e;
+}
+.box6c{
+    margin-left: 20px;
+}
+.box6c p{
+    color: white;
+   padding: 50px;
+   font-weight: bolder;
+}
+
+/* --------------------------------------------------------------------------- */
+@media screen and (max-width:576px) {
+    .box62{
+        /* border: 2px solid rgb(215, 230, 8); */
+        height: 500px;
+        margin-top: 200px;
+    }
+    .box62{
+        /* border: 2px solid rgb(215, 230, 8); */
+        /* height: 500px; */
+        height: fit-content;
+    }
+    .box622{
+        /* border: 2px solid rgb(238, 14, 14); */
+        /* height: 380px; */
+        height: fit-content;
+        margin-top:50px;
+    }
+    .box6221{
+        /* border: 2px solid rgb(14, 13, 13); */
+        height: 250px;
+        background-image: url("../img/dna.jfif");
+        background-position: center;
+        background-repeat: no-repeat;
+        /* background-size: 600px; */
+        background-size: 100%;
+    
+    
+    
+    }
+    .box6222{
+        /* border: 2px solid rgb(14, 13, 13); */
+        height: 250px;
+        background-image: url("../img/micro1.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        /* background-size: 600px; */
+        background-size: 100%;
+    }
+    .box6223{
+        /* border: 2px solid rgb(14, 13, 13); */
+        height: 250px;
+        background-image: url("../img/earth.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        /* background-size: 600px; */
+        background-size: 100%;
+    
+      
+    }
+    .box6224{
+        /* border: 2px solid rgb(14, 13, 13); */
+        height: 250px;
+        background-image: url("../img/tunnel.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        /* background-size: 600px; */
+        background-size: 100%;
+    }
+    .box621{
+        display: none;
+    }
+    .box622{
+        /* border: 2px solid rgb(238, 14, 14); */
+        height: 380px;
+        /* height: fit-content; */
+        margin-top:20px;
+    }
+    .box6c{
+        margin-left: 20px;
+    }
+    
+    
+}

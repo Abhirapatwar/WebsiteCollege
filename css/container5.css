@@ -1,0 +1,157 @@
+.box5{
+    /* border: 2px solid rgb(83, 89, 96); */
+    /* height: fit-content; */
+    margin-top: 100px;
+    height: 250px;
+    overflow-y: hidden;
+}
+.box51{
+    /* border: 2px solid rgb(14, 107, 213); */
+    height: 250px;
+    margin-left: 20px;
+    background-color: #b1040e;
+}
+.box52{
+    /* border: 2px solid rgb(11, 198, 114); */
+    height: 250px;
+
+}
+.box521{
+    /* border: 2px solid rgb(11, 198, 114); */
+    /* background-color: rgb(186, 198, 221); */
+    height: 250px;
+    margin-left: 60px;
+    background-image: url("../img/content1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
+}
+.box522{
+    /* border: 2px solid rgb(11, 198, 114); */
+    /* background-color: rgb(230, 230, 131); */
+    height: 250px;
+    margin-left: 60px;
+    background-image: url("../img/content2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
+}
+.box523{
+    /* border: 2px solid rgb(11, 198, 114); */
+    /* background-color: rgb(168, 230, 222); */
+    height: 250px;
+    margin-left: 60px;
+    background-image: url("../img/content3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
+}
+.box524{
+    /* border: 2px solid rgb(11, 198, 114); */
+    /* background-color: rgb(193, 154, 216); */
+    height: 250px;
+    margin-left: 60px;
+    background-image: url("../img/content4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
+}
+.box51h{
+    display: none;
+}
+.box51f{
+    text-align: center;
+    padding-top: 20px;
+}
+
+/* --------------------------------------------------------------------------- */
+@media screen and (max-width:576px) {
+    .box5{
+        /* border: 2px solid rgb(83, 89, 96); */
+        height: fit-content;
+        margin-top: 180px;
+        overflow-y:visible;
+    }
+    .box52{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* height: 250px; */
+        height: fit-content;
+    }
+    .box521{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* background-color: rgb(186, 198, 221); */
+        height: 250px;
+        margin-left: 0px;
+    }
+    .box522{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* background-color: rgb(230, 230, 131); */
+        height: 250px;
+        margin-left: 0px;
+    }
+    .box523{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* background-color: rgb(168, 230, 222); */
+        height: 250px;
+        margin-left: 0px;
+    }
+    .box524{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* background-color: rgb(193, 154, 216); */
+        height: 250px;
+        margin-left: 0px;
+    }
+    .box51{
+        /* border: 2px solid rgb(14, 107, 213); */
+        height: 250px;
+        margin-left:0px;
+    }
+    .box51f{
+        display: none;
+    }
+    .box51h{
+        display: block;
+        padding: 50px;
+        color: white;
+    }
+    .box521{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* background-color: rgb(186, 198, 221); */
+        height: 250px;
+        /* margin-left: 60px; */
+        background-image: url("../img/content1.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 250px;
+    }
+    .box522{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* background-color: rgb(230, 230, 131); */
+        height: 250px;
+        /* margin-left: 60px; */
+        background-image: url("../img/content2.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 250px;
+    }
+    .box523{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* background-color: rgb(168, 230, 222); */
+        height: 250px;
+        /* margin-left: 60px; */
+        background-image: url("../img/content3.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 250px;
+    }
+    .box524{
+        /* border: 2px solid rgb(11, 198, 114); */
+        /* background-color: rgb(193, 154, 216); */
+        height: 250px;
+        /* margin-left: 60px; */
+        background-image: url("../img/content4.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 250px;
+    }
+}
